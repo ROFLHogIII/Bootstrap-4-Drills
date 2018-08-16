@@ -1,0 +1,19 @@
+/*
+.container {
+    background-color: blue;
+    height: 500px;
+}
+*/
+.justify-center {
+    justify-content: center;
+}
+.self-start {
+    justify-self: start
+}
+.self-end {
+    justify-self: end
+
+}
+.self-center {
+    justify-self: center
+}
